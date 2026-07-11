@@ -1,0 +1,4 @@
+
+s = "Python"
+
+print(s)
